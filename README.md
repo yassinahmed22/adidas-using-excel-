@@ -1,9 +1,9 @@
 # adidas-using-excel-
 Adidas, likely created in a tool like Power BI or Excel. It provides a comprehensive overview of financial and operational metrics across different regions, product categories, and sales channels for the years 2020 and 2021.  The dashboard uses a clean, grayscale aesthetic with high-contrast black and white elements. Here is a detailed breakdown 
-<img width="1254" height="487" alt="addides bn" src="https://github.com/user-attachments/assets/2fa2da42-39b8-45e6-8227-24920787aac0" />
 # Adidas Sales Performance Dashboard
+<img width="1254" height="487" alt="addides bn" src="https://github.com/user-attachments/assets/2fa2da42-39b8-45e6-8227-24920787aac0" />
 
-![Adidas Dashboard](addides%20bn.PNG)
+
 
 ## 📌 Project Description
 This repository contains a comprehensive **Sales Analytics Dashboard** for Adidas, covering sales data from **2020 to 2021**. The project focuses on visualizing key business metrics, regional performance, and product-level trends to provide actionable insights for retail management.
